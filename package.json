@@ -1,0 +1,27 @@
+{
+  "name": "useful-react-component",
+  "version": "1.0.1",
+  "description": "some simple useful component for react developer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LawlietZe/userfulReactComp.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "lawlietze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LawlietZe/userfulReactComp/issues"
+  },
+  "homepage": "https://github.com/LawlietZe/userfulReactComp#readme",
+  "dependencies": {
+    "classnames": "^2.2.6",
+    "prop-types": "^15.6.2",
+    "react": "^16.7.0"
+  }
+}
